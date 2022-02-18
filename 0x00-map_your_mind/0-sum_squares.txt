@@ -1,0 +1,6 @@
+INPUT = a set of numbers
+	LET sum be 0
+	FOR each of the numbers
+		Get the Square
+		ADD the square to the SUM
+	RETURN the new sum
